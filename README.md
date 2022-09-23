@@ -1,5 +1,5 @@
-# UNIT PLAN NAME
-by TEAM MEMBERS
+# Modeling in Data Science
+by David Moste
 
 -----
 
