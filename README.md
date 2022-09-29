@@ -40,6 +40,6 @@ Total lenght: X Weeks
 ---
 
 ### Assesments
-(list summative and/or formative assessments used)
+[Kaggle unit project](https://www.kaggle.com/datasets)
 
 ---
