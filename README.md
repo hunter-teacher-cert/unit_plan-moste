@@ -14,7 +14,11 @@ I'll be teaching an advanced computer science course next year and would like to
 ---
 
 ### Standards Referenced
-List The NY State Computer Science standards you will be covering in this unit. Provide the number and name (e.g. 4-6.CT.1 Computational Thinking, Modeling and Simulation)
+9-12.IC.7 Impacts of Computing, Career Paths
+9-12.CT.1 Computational Thinking, Modeling and Simulation
+9-12.CT.2 Computational Thinking, Data Analysis and Visualization
+9-12.CT.3 Computational Thinking, Data Analysis and Visualization
+9-12.CT.7 Computational Thinking, Algorithms and Programming
 
 ---
 
