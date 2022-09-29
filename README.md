@@ -40,6 +40,6 @@ Total lenght: X Weeks
 ---
 
 ### Assesments
-[Kaggle unit project](https://www.kaggle.com/datasets)
+[Kaggle](https://www.kaggle.com/datasets) unit project
 
 ---
