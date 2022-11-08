@@ -51,6 +51,8 @@ Total lenght: 10 Lessons
 ---
 
 ### Assesments
-[Kaggle](https://www.kaggle.com/datasets) unit project
+[Kaggle Unit Project](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data)
+
+Students will complete the Kaggle Unit Project to show their understanding of hte topics presented during the unit. The goal of the copmetition is to create a model that will predict the sale price of a house.
 
 ---
