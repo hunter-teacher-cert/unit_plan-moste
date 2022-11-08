@@ -25,10 +25,12 @@ I'll be teaching an advanced computer science course next year and would like to
 ### Tools Used
 I'm debating between using python or R for this course. I'll get back to this section when I decide. If using python, I would probably use the spyder IDE. Obviously R comes with it's own glorious IDE, R-Studio.
 
+Decision: The unit will be taught in R, so I would hopefully teach the entire course in R as well (let's assume that students already know R for the sake of this unit).
+
 ---
 
 ### Resources
-(include any links/books/readings to be used during this unit)
+Kaggle!
 
 ---
 
