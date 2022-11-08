@@ -33,9 +33,18 @@ I'm debating between using python or R for this course. I'll get back to this se
 ---
 
 ### Lessons
-Total lenght: X Weeks
+Total lenght: 10 Lessons
 
-(list each lesson with main topic(s))
+01 Introduction to Linear Regression  
+02 Linear Regression Practice  
+03 Introduction to KNN  
+04 KNN Practice  
+05 Introduction to Decision Trees
+06 Decision Trees Practice
+07 Introduction to Random Forests
+08 Random Forests Practice
+09 Unit Project
+10 Unit Project
 
 ---
 
