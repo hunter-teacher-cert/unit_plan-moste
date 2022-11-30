@@ -4,7 +4,7 @@ by David Moste
 -----
 
 ### General Overview
-This unit will introduce students to different types of models used in data science. The unit will cover both regression and classification techniques such as linear regression, k-nearest neighbors, decision trees, and random forests.
+This unit will introduce students to different types of models used in data science. The unit will cover both regression and classification techniques such as linear regression and k-nearest neighbors.
 
 ---
 
@@ -38,14 +38,14 @@ Kaggle!
 Total lenght: 10 Lessons
 
 01 Introduction to Linear Regression  
-02 Linear Regression Practice  
-03 Introduction to KNN  
-04 KNN Practice  
-05 Introduction to Decision Trees
-06 Decision Trees Practice
-07 Introduction to Random Forests
-08 Random Forests Practice
-09 Unit Project
+02 Linear Regression Coding  
+03 Linear Regression Practice  
+04 Introduction to KNN  
+05 KNN Coding  
+06 KNN Practice  
+07 KNN Practice   
+08 Unit Project  
+09 Unit Project  
 10 Unit Project
 
 ---
